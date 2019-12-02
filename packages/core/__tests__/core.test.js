@@ -1,5 +1,5 @@
-import core from '../src/core';
+// import core from '../src/core';
 
-describe('core', () => {
-    it('needs tests');
-});
+// describe('core', () => {
+//   it('needs tests');
+// });
